@@ -18,9 +18,9 @@ O código controla dois motores (motor direito e motor esquerdo) e lê o estado 
 - Cabos e conectores
 - Fonte de alimentação adequada
 
-  ### 🚀 Funcionando:
+### 🚀 Funcionando:
 
-  ##
+##
 
-  https://github.com/julioolt/Robo-Seguidor-De-Linha/assets/106978703/12a056a6-5aef-4a2e-ac19-c8d7f933f4a9
+https://github.com/julioolt/Robo-Seguidor-De-Linha/assets/106978703/12a056a6-5aef-4a2e-ac19-c8d7f933f4a9
 
